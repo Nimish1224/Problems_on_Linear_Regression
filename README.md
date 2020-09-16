@@ -1,4 +1,3 @@
-# Problems_on_Linear_Regression
 # ➕ Solving Problems Using ➗ (✔Linear Regression Algorithm✔)
 
 In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables 
